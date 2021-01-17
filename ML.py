@@ -1188,7 +1188,7 @@ def main():
        run_deep_learning()
     
     elif choice =="NLP":
-        st.write("Our day to day language can tell you an aboard patterns, insights and sentiments. Explore the prower of Ai: Natural Language Processing algorithim and discover synchronicity that leads one to another. Free to use as much as you like! under GNU General Public License with a Motto #WeRiseByLiftingOthers")
+        st.write("Our day to day language can tell you an aboard patterns, insights and sentiments. Explore the power of Ai: Natural Language Processing algorithm and discover synchronicity that leads one to another. Free to use as much as you like! under GNU General Public License with a Motto #WeRiseByLiftingOthers")
       
         st.write("NLP Analytics [@share.streamlit.io rupak-roy/nlp](https://share.streamlit.io/rupak-roy/nlp/main/nlp_app.py)")
        
